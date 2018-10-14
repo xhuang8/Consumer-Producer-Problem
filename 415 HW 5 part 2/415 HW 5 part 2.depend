@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1524220393 source:c:\users\henry\desktop\code\415 hw 5 part 2\main.c
+	<stdio.h>
+	<string.h>
+	<pthread.h>
+	<ctype.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<semaphore.h>
+
